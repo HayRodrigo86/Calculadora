@@ -2,7 +2,7 @@
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.println("Primeria alteração");
+		System.out.println("Segunda alteração");
 
 	}
 
